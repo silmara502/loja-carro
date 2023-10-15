@@ -1,0 +1,27 @@
+/* Configurações Gerais */
+@import url(global/global.css);
+/* Configurações do menu */
+@import url(global/menu.css);
+
+/* Tipografica e Cores */
+
+@import url(utilidades/cores.css);
+@import url(utilidades/tipografica.css);
+
+/* Parte Introdutoria */
+@import url(home/introducao.css);
+
+/* Lista de Carros */
+@import url(carros/carros.css);
+
+/* Tecnologia e Vantagens */
+@import url(home/tecnologia.css);
+
+/* Area sobre Seguros */
+@import url(home/seguros.css);
+
+/* Parceiros */
+
+@import url(home/parceiros.css);
+
+@import url(home/footer.css);
